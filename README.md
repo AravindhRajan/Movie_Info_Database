@@ -23,11 +23,11 @@ Below is how the homepage would look like
    * Language
 followed by Lead Actor Name, Role Name and Director
 
-![alt text](https://github.com/AravindhRajan/Movie_Info_Database/blob/main/result_part1.JPG)
+![alt text](https://github.com/AravindhRajan/Movie_Info_Database/blob/main/result_p1.JPG)
 
 In addition to showing a short plot of the movie, it also shows a list of movie recommendations based on the movie summary. You can choose the number of recommendations you want
 
-![alt text](https://github.com/AravindhRajan/Movie_Info_Database/blob/main/result_part2.JPG)
+![alt text](https://github.com/AravindhRajan/Movie_Info_Database/blob/main/result_p2.JPG)
 
 _NOTE:This is just a crude attempt to demonstrate the possibilities of building a simple app on the fly that consumes your model in the backend. There are plenty of areas to improve and fine tune_
 
